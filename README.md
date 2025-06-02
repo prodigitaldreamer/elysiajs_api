@@ -9,7 +9,7 @@ A simple task API built with [ElysiaJS](https://elysiajs.com/).
 ## Installation
 
 Install Bun:
-
+    
 ```bash
 curl https://bun.sh/install | bash
 ```
